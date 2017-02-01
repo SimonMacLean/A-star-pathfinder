@@ -1,0 +1,9 @@
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\bin\Debug\A-star pathfinder.exe.config
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\bin\Debug\A-star pathfinder.exe
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\bin\Debug\A-star pathfinder.pdb
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\obj\Debug\A-star pathfinder.csprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\obj\Debug\A_star_pathfinder.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\obj\Debug\A-star pathfinder.csproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\obj\Debug\A-star pathfinder.exe
+c:\users\simon\documents\visual studio 2015\Projects\A-star pathfinder\A-star pathfinder\obj\Debug\A-star pathfinder.pdb
+c:\Users\simon\Documents\Visual Studio 2015\Projects\A-star pathfinder\A-star pathfinder\obj\Debug\A_star_pathfinder.DrawingForm.resources
